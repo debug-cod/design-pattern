@@ -1,5 +1,12 @@
 E:\myeclipse-game\pacmanapp\src\main\java\uos\pacman\Food.java
+E:\myeclipse-game\pacmanapp\src\main\java\uos\pacman\AudioManager.java
+E:\myeclipse-game\pacmanapp\src\main\java\uos\pacman\InputHandler.java
 E:\myeclipse-game\pacmanapp\src\main\java\uos\pacman\Pacman.java
+E:\myeclipse-game\pacmanapp\src\main\java\uos\pacman\CollisionManager.java
+E:\myeclipse-game\pacmanapp\src\main\java\uos\pacman\UIManager.java
 E:\myeclipse-game\pacmanapp\src\main\java\uos\pacman\PacmanApp.java
+E:\myeclipse-game\pacmanapp\src\main\java\uos\pacman\GameLauncher.java
 E:\myeclipse-game\pacmanapp\src\main\java\uos\pacman\GameObject.java
+E:\myeclipse-game\pacmanapp\src\main\java\uos\pacman\Ghost.java
+E:\myeclipse-game\pacmanapp\src\main\java\uos\pacman\LevelData.java
 E:\myeclipse-game\pacmanapp\src\main\java\uos\pacman\Wall.java
